@@ -9,6 +9,7 @@ Description of files
 -
 File name | Description
 -|-
+README.md | README.md
+sample.out | Sample output of 'test.go' on Linux bash
 test.go | Sample implementation of postgreSQL in Golang for CBRE Group, Inc.
 userinfo.sql | Creates 'userinfo' table for the postgreSQL
-sample.out | Sample output of 'test.go' on Linux bash
