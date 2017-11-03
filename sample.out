@@ -1,0 +1,27 @@
+~$ go install
+~$ test1
+---CBRE userinfo postgreSQL program starts---
+
+---insert userinfo into database---
+Last inserted id is:  15
+
+---update data---
+how many rows got affected by the 'update' query?  0
+
+---scan all existing rows---
+record number:  14
+user name:  Tang
+phone:  5120001234
+homebranch:  CBRE Dallas 
+
+record number:  15
+user name:  Aziz
+phone:  5120001111
+homebranch:  CBRE Austin 
+
+
+---delete all data---
+how many rows got affected by the 'delete' query?  2
+
+---CBRE userinfo postgreSQL program ends---
+~$ 
